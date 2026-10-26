@@ -1,0 +1,18 @@
+# 비밀값
+.env
+*.pem
+*.key
+id_*
+credentials*
+# 결과·샘플 원본
+results/*.json
+!results/sample*.json
+samples/
+*.vmdk
+*.raw
+*.mem
+# 파이썬
+__pycache__/
+*.pyc
+venv/
+.venv/
