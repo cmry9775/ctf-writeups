@@ -6,10 +6,12 @@
 web / pwn / rev / forensics / crypto / misc
 
 ## 목록
-| 날짜 | 플랫폼 | 분야 | 문제 | 난이도 | 링크 |
-| --- | --- | --- | --- | --- | --- |
+| 날짜 | 플랫폼 | 분야 | 문제 | 난이도 | 키워드 | 링크 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-27 | Dreamhack | Web | cookie | Lv.1 | 쿠키 변조, 인증 우회 | [write-up](web/2026-10-27_dreamhack_cookie) |
+| 2026-10-27 | Dreamhack | Web | simple_sqli | Lv.1 | SQL Injection, 인증 우회 | [write-up](web/2026-10-27_dreamhack_simple_sqli) |
 
-누적: Web 0 · Pwn 0 · Rev 0 · Forensics 0
+누적: Web 2 · Pwn 0 · Rev 0 · Forensics 0 · Crypto 0 · Misc 0 (2026-10-27 기준)
 
 ## 양식
 문제별 write-up은 TEMPLATE.md를 복사해 작성 (방어 관점까지 포함).
