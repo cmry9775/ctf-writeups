@@ -1,18 +1,18 @@
-# 비밀값
+# 비밀값 (만약을 대비해 유지)
 .env
 *.pem
 *.key
 id_*
 credentials*
-# 결과·샘플 원본
-results/*.json
-!results/sample*.json
-samples/
-*.vmdk
-*.raw
-*.mem
-# 파이썬
-__pycache__/
-*.pyc
-venv/
-.venv/
+
+# 1) 기본적으로 전부 무시
+*
+
+# 2) 디렉터리는 재귀 탐색을 위해 허용(디렉터리 자체가 커밋되는 건 아님)
+!*/
+
+# 3) 허용할 확장자/파일만 명시적으로 추적
+!*.md
+!*.png
+!.gitignore
+!LICENSE
