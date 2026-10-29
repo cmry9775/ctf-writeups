@@ -8,11 +8,12 @@ web / pwn / rev / forensics / crypto / misc
 ## 목록
 | 날짜 | 플랫폼 | 분야 | 문제 | 난이도 | 키워드 | 링크 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-27 | Dreamhack | Web | cookie | Lv.1 | 쿠키 변조, 인증 우회 | [write-up](web/2026-10-27_dreamhack_cookie) |
-| 2026-10-27 | Dreamhack | Web | simple_sqli | Lv.1 | SQL Injection, 인증 우회 | [write-up](web/2026-10-27_dreamhack_simple_sqli) |
-| 2026-10-28 | Dreamhack | Misc | Exercise: Docker | 실습(Tutorial) | Docker build/run, 이미지·컨테이너 생명주기 | [write-up](misc/2026-10-28_dreamhack_docker-exercise) |
+| 2026-10-27 | Dreamhack | Web | cookie | B4 | 쿠키 변조, 인증 우회 | [write-up](web/2026-10-27_dreamhack_cookie) |
+| 2026-10-27 | Dreamhack | Web | simple_sqli | B2 | SQL Injection, 인증 우회 | [write-up](web/2026-10-27_dreamhack_simple_sqli) |
+| 2026-10-28 | Dreamhack | Misc | Exercise: Docker | B3 | Docker build/run, 이미지·컨테이너 생명주기 | [write-up](misc/2026-10-28_dreamhack_docker-exercise) |
+| 2026-10-29 | Dreamhack | Misc | blue-whale | B1 | Docker 이미지 레이어, dive, 삭제된 파일 복구 | [write-up](misc/2026-10-29_dreamhack_blue-whale) |
 
-누적: Web 2 · Pwn 0 · Rev 0 · Forensics 0 · Crypto 0 · Misc 1 (2026-10-28 기준)
+누적: Web 2 · Pwn 0 · Rev 0 · Forensics 0 · Crypto 0 · Misc 2 (2026-10-29 기준)
 
 ## 양식
 문제별 write-up은 TEMPLATE.md를 복사해 작성 (방어 관점까지 포함).
