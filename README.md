@@ -14,8 +14,10 @@ web / pwn / rev / forensics / crypto / misc
 | 2026-10-29 | Dreamhack | Misc | blue-whale | B1 | Docker 이미지 레이어, dive, 삭제된 파일 복구 | [write-up](misc/2026-10-29_dreamhack_blue-whale) |
 | 2026-10-29 | Dreamhack | Web | ex-reg-ex | B4 | Regex, 정규표현식 미앵커링 | [write-up](web/2026-10-29_dreamhack_ex-reg-ex) |
 | 2026-10-29 | Dreamhack | Web | phpreg | B4 | preg_replace 전역치환 우회, 블랙리스트 필터 우회, OS Command Injection | [write-up](web/2026-10-29_dreamhack_phpreg) |
+| 2026-10-30 | Dreamhack | Web | file-download-1 | B3 | Path Traversal, 업로드/조회 검증 비일관성 | [write-up](web/2026-10-30-file-download-1) |
+| 2026-10-30 | Dreamhack | Crypto | ROT128 | B4 | ROT128, 시저 암호(고정 shift), 자기 역원(involution), 파일 시그니처 | [write-up](crypto/2026-10-30-ROT128) |
 
-누적: Web 4 · Pwn 0 · Rev 0 · Forensics 0 · Crypto 0 · Misc 2 (2026-10-29 기준)
+누적: Web 5 · Pwn 0 · Rev 0 · Forensics 0 · Crypto 1 · Misc 2 (2026-10-30 기준)
 
 ## 양식
 문제별 write-up은 TEMPLATE.md를 복사해 작성 (방어 관점까지 포함).

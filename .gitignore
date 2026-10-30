@@ -16,3 +16,6 @@ credentials*
 !*.png
 !.gitignore
 !LICENSE
+
+# 4) flag 관련 파일은 추적하지 않음 
+flag.*
