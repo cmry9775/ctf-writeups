@@ -16,8 +16,9 @@ web / pwn / rev / forensics / crypto / misc
 | 2026-10-29 | Dreamhack | Web | phpreg | B4 | preg_replace 전역치환 우회, 블랙리스트 필터 우회, OS Command Injection | [write-up](web/2026-10-29_dreamhack_phpreg) |
 | 2026-10-30 | Dreamhack | Web | file-download-1 | B3 | Path Traversal, 업로드/조회 검증 비일관성 | [write-up](web/2026-10-30-file-download-1) |
 | 2026-10-30 | Dreamhack | Crypto | ROT128 | B4 | ROT128, 시저 암호(고정 shift), 자기 역원(involution), 파일 시그니처 | [write-up](crypto/2026-10-30-ROT128) |
+| 2026-10-30 | Dreamhack | Crypto | likeb64 | B4 | Base32, 커스텀 알파벳 인코딩, 패딩(`=`) 분석 | [write-up](crypto/2026-10-30-likeb64) |
 
-누적: Web 5 · Pwn 0 · Rev 0 · Forensics 0 · Crypto 1 · Misc 2 (2026-10-30 기준)
+누적: Web 5 · Pwn 0 · Rev 0 · Forensics 0 · Crypto 2 · Misc 2 (2026-10-30 기준)
 
 ## 양식
 문제별 write-up은 TEMPLATE.md를 복사해 작성 (방어 관점까지 포함).
