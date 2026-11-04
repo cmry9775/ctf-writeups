@@ -18,6 +18,7 @@ web / pwn / rev / forensics / crypto / misc
 | 2026-10-30 | Dreamhack | Crypto | ROT128 | B4 | ROT128, 시저 암호(고정 shift), 자기 역원(involution), 파일 시그니처 | [write-up](crypto/2026-10-30_ROT128) |
 | 2026-10-30 | Dreamhack | Crypto | likeb64 | B4 | Base32, 커스텀 알파벳 인코딩, 패딩(`=`) 분석 | [write-up](crypto/2026-10-30_likeb64) |
 | 2026-11-3 | Dreamhack | Web | pathtraversal | B4 | Path Traversal, Confused Deputy, 클라이언트 측 검증 우회 | [write-up](web/2026-11-3_pathtraversal) |
+| 2026-11-4 | Dreamhack | Crypto | ByteCaesar | B4 | Caesar 암호, 바이트 단위 shift(mod 256), 자연어 통계 | [write-up](crypto/2026-11-4_ByteCaesar) |
 
 누적: Web 5 · Pwn 0 · Rev 0 · Forensics 0 · Crypto 2 · Misc 2 (2026-10-30 기준)
 
