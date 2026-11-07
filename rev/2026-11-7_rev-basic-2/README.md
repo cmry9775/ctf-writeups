@@ -5,9 +5,9 @@
 | 플랫폼 | Dreamhack 워게임 |
 | 문제 URL | https://dreamhack.io/wargame/challenges/16 |
 | 분야 | Rev |
-| 난이도 | Level 1 |
+| 난이도 | B4 |
 | 풀이 날짜 | 2026-11-7 |
-| 소요 시간 |  |
+| 소요 시간 | 10min |
 | 핵심 키워드 | 정적 분석, 디스어셈블리, 데이터 테이블(배열) 비교, 반복문 |
 | CWE | CWE-798 (Use of Hard-coded Credentials), CWE-259 (Use of Hard-coded Password) |
 
