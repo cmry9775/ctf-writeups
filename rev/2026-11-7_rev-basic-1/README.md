@@ -92,7 +92,7 @@ flowchart LR
 | --- | --- | --- |
 
 ## 5. 익스플로잇
-1. Ghidra로 `chall0.exe`를 열고 목표값인 `Correct`를 찾습니다.
+1. Ghidra로 `chall1.exe`를 열고 목표값인 `Correct`를 찾습니다.
 
 ![FUN_140001350](image.png)
 
