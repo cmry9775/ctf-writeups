@@ -7,7 +7,7 @@
 | 분야 | Rev |
 | 난이도 | Level 1 |
 | 풀이 날짜 | 2026-11-7 |
-| 소요 시간 |  |
+| 소요 시간 | 5min |
 | 핵심 키워드 | 정적 분석, 디스어셈블리, 바이트 단위 비교, 문자열 복원 |
 | CWE | CWE-798 (Use of Hard-coded Credentials), CWE-259 (Use of Hard-coded Password) |
 
