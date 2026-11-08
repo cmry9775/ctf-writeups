@@ -20,8 +20,12 @@ web / pwn / rev / forensics / crypto / misc
 | 2026-11-3 | Dreamhack | Web | pathtraversal | B4 | Path Traversal, Confused Deputy, 클라이언트 측 검증 우회 | [write-up](web/2026-11-3_pathtraversal) |
 | 2026-11-4 | Dreamhack | Crypto | ByteCaesar | B4 | Caesar 암호, 바이트 단위 shift(mod 256), 자연어 통계 | [write-up](crypto/2026-11-4_ByteCaesar) |
 | 2026-11-4 | Dreamhack | Rev | [CodeEngn]_Malware_L07 | B4 | 정적 분석, IDA 흐름 그래프, 뮤텍스 | [write-up](rev/2026-11-4_[CodeEngn]_Malware_L07) |
+| 2026-11-7 | Dreamhack | Rev | rev-basic-0 | B4 | 정적 분석, Ghidra | [write-up](rev/2026-11-7_rev-basic-0) |
+| 2026-11-7 | Dreamhack | Rev | rev-basic-1 | B4 | 정적 분석, 디스어셈블리, 바이트 단위 비교, 문자열 복원 | [write-up](rev/2026-11-7_rev-basic-1) |
+| 2026-11-7 | Dreamhack | Rev | rev-basic-2 | B4 | 정적 분석, 디스어셈블리, 데이터 테이블(배열) 비교, 반복문 | [write-up](rev/2026-11-7_rev-basic-2) |
+| 2026-11-7 | Dreamhack | Rev | rev-basic-3 | B4 | 정적 분석, 디스어셈블리, XOR, 역연산, 데이터 테이블 | [write-up](rev/2026-11-7_rev-basic-3) |
 
-누적: Web 6 · Pwn 0 · Rev 1 · Forensics 0 · Crypto 3 · Misc 2 (2026-10-30 기준)
+누적: Web 6 · Pwn 0 · Rev 5 · Forensics 0 · Crypto 3 · Misc 2 (2026-11-8 기준)
 
 ## 양식
 문제별 write-up은 TEMPLATE.md를 복사해 작성 (방어 관점까지 포함).
