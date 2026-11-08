@@ -26,7 +26,7 @@ Windows 실행 파일 `chall1.exe` 하나가 주어집니다. 실행하면 `Inpu
 Ghidra를 통해 원하는 목표값이 correct가 호출되는 지점을 찾았습니다.
 ```c
 // FUN_140001120
-  uVar1 = FUN_140001000(local_118);
+  uVar1 = FUN_140001000((longlong)local_118);
   if ((int)uVar1 == 0) {
     puts("Wrong");
   }
