@@ -24,8 +24,10 @@ web / pwn / rev / forensics / crypto / misc
 | 2026-11-7 | Dreamhack | Rev | rev-basic-1 | B4 | 정적 분석, 디스어셈블리, 바이트 단위 비교, 문자열 복원 | [write-up](rev/2026-11-7_rev-basic-1) |
 | 2026-11-7 | Dreamhack | Rev | rev-basic-2 | B4 | 정적 분석, 디스어셈블리, 데이터 테이블(배열) 비교, 반복문 | [write-up](rev/2026-11-7_rev-basic-2) |
 | 2026-11-7 | Dreamhack | Rev | rev-basic-3 | B4 | 정적 분석, 디스어셈블리, XOR, 역연산, 데이터 테이블 | [write-up](rev/2026-11-7_rev-basic-3) |
+| 2026-11-14 | Dreamhack | Forensics | png_and_png_and_png_and_png | B3 | PNG 시그니처/`IEND`, 파일 카빙, 이미지 스테가노그래피 | [write-up](forensics/2026-11-14_png_and_png_and_png_and_png) |
+| 2026-11-14 | Dreamhack | Forensics | stegano_whyrano | B2 | 문서 스테가노그래피, OOXML(.pptx = zip), 파일 시그니처 | [write-up](forensics/2026-11-14_stegano_whyrano) |
 
-누적: Web 6 · Pwn 0 · Rev 5 · Forensics 0 · Crypto 3 · Misc 2 (2026-11-8 기준)
+누적: Web 6 · Pwn 0 · Rev 5 · Forensics 2 · Crypto 3 · Misc 2 (2026-11-14 기준)
 
 ## 양식
 문제별 write-up은 TEMPLATE.md를 복사해 작성 (방어 관점까지 포함).
